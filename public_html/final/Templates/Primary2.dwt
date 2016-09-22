@@ -1,0 +1,67 @@
+<!--<meta name="keywords" content="Singh,Bali,Kulwinder,Maa,Media,Home,Lyrics,Writing,Biography,Discography,Contact">
+ --><html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Bali Karyam</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../baliWeb.css" rel="stylesheet" type="text/css">
+<meta name="keywords" content="Singh,Maa,Media,Kulwinder,Contact,News,Lyrics,Media,Bali,Karyam,Discography,Biography">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (BK2Website.psd) -->
+<table width="1024" height="378" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+	<tr>
+		<td height="156">
+			<img src="../images/BaliLayout_01.jpg" alt="" width="1024" height="156" usemap="#Map2" border="0"></td>
+	</tr>
+	<tr>
+		<td height="35"><img src="../images/BaliLayout_02.jpg" alt="" width="1024" height="35" usemap="#Map" border="0"></td>
+	</tr>
+	<tr>
+		<td valign="top"><!-- TemplateBeginEditable name="BaliEditRegion" -->
+		  <table width="99%" border="0" align="center">
+		    <tr>
+		      <td width="47%" height="56" bgcolor="#CCCCCC"><h1>Heading One</h1>
+              <h2>Heading Two</h2></td>
+		      <td width="53%" valign="top" bgcolor="#CCCCCC">&nbsp;</td>
+	        </tr>
+		    <tr>
+		      <td height="79" valign="top" bgcolor="#CCCCCC"><h3>Heading Three</h3>
+	          <p>Paragraph</p></td>
+		      <td bgcolor="#CCCCCC">&nbsp;</td>
+	        </tr>
+	    </table>
+		<!-- TemplateEndEditable --></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+
+<map name="Map">
+  <area shape="rect" coords="11,6,92,34" href="../index.html">
+  <area shape="rect" coords="129,2,221,31" href="../Media.html">
+  <area shape="rect" coords="248,1,326,30" href="../Lyrics.html">
+  <area shape="rect" coords="362,5,441,32" href="../News.html">
+  <area shape="rect" coords="464,6,570,29" href="../Projects.html">
+  <area shape="rect" coords="616,6,823,33" href="../Singh Kulwinder.html">
+  <area shape="rect" coords="869,3,989,31" href="../Contacts.html">
+  <area shape="rect" coords="8,3,94,34" href="#">
+  <area shape="rect" coords="7,2,97,35" href="../index.html">
+  <area shape="rect" coords="131,1,221,35" href="../Media.html">
+  <area shape="rect" coords="249,1,325,28" href="../Lyrics.html">
+  <area shape="rect" coords="359,6,442,35" href="../News.html">
+  <area shape="rect" coords="465,3,572,31" href="../Projects.html">
+  <area shape="rect" coords="613,4,824,31" href="../Singh Kulwinder.html">
+  <area shape="rect" coords="871,2,988,32" href="../Contacts.html">
+</map>
+
+<map name="Map2">
+  <area shape="rect" coords="984,2,1017,34" href="https://www.facebook.com/" target="new">
+  <area shape="rect" coords="948,2,981,37" href="https://twitter.com/" target="new">
+  <area shape="rect" coords="913,4,946,37" href="https://www.youtube.com/">
+  <area shape="rect" coords="878,2,912,36" href="https://www.google.com/" target="new">
+</map>
+</body>
+</html>

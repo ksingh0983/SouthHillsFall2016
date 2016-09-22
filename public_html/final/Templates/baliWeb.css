@@ -1,0 +1,34 @@
+@charset "utf-8";
+h1 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 36px;
+	font-weight: bold;
+	color: #C33;
+}
+h2 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 18px;
+	color: #F33;
+}
+p {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 14px;
+	color: #FFF;
+}
+h4 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 18px;
+	color: #FFF;
+}
+
+h3 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	color: #309;
+}
+body {
+	background-color: #000;
+}
+.floatRight{
+    float:right;	
+}

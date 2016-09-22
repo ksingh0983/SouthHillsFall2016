@@ -1,0 +1,55 @@
+<html>
+<head>
+	<title>PHP-Email</title>
+</head>
+<body >
+<table>
+
+
+<td>
+<form  id="Sender Information" action="PHPEmail.php" method="POST" enctype="multipart/form-data">
+<tr><strong>Sender Information</strong></tr><br />
+<div class="row">
+	<label for="Name">Your Name</label><br />
+	<input id="name" class="input" name="name" type="text" value="" size="30"><br /><br />
+	</div>
+
+	<label for="email">Your E-mail Address</label><br />
+	<input id="email" class="input" name="email" type="text" value="" size="30"><br /><br />
+
+</div>
+
+
+<tr><b>Recipients</b></tr><br />
+<tr>Enter each e-mail address on a seperate line</tr><br/>
+
+ <tr><label for="To">To</label><br />
+  <input id="To" class="input" name="To" type="text" value="" size="30"><br /><br />
+  </tr>
+  <tr>
+     <label for="CC">CC</label><br />
+  <input id="CC" class="input" name="CC" type="text" value="" size="30"><br /><br />
+  <tr>
+
+<tr>
+     <label for="BCC">BCC</label><br />
+  <input id="BCC" class="input" name="BCC" type="text" value="" size="30"><br /><br />
+  <tr>
+</td>	
+
+<td>
+<tr><strong>Message Details</strong></tr><br /><br/>
+<label for="subject">Subject</label><br />
+	<input id="subject" class="input" name="subject" type="text" value="" size="30"><br /><br />
+    <label for="message">Message</label><br />
+<textarea id="message" class="input" name="message" rows="7" cols="30" ></textarea><br /><br />
+<tr>
+	<input id="submit_button" type="submit" value="Send" /></input>
+	<input type="reset" name="reset" value="Reset"></tr>
+
+
+</td>
+</form>
+</table>
+</body>
+</html>
